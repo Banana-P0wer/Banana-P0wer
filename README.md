@@ -1,3 +1,4 @@
+```json
 {
   "name": "Vladislàv Turovèts",
   "releaseDate": "09.10.2003",
@@ -5,3 +6,4 @@
   "favoriteLanguage": "python",
   "languages": ["english", "russian"]
 }
+```
